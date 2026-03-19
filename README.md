@@ -1,16 +1,18 @@
-# React + Vite
+# Prathmesh Sutar's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website, built with React and Vite. This site showcases my projects, skills, and experience in the field of AI and Data Science.
 
-Currently, two official plugins are available:
+🚀 **Live Site**: [https://prathmeshsutar.netlify.app/](https://prathmeshsutar.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Built With
+- **Frontend**: React.js, Vite
+- **Styling**: Vanilla CSS (Premium "Netflix" Theme)
+- **Deployment**: Netlify
 
-## React Compiler
+## 📁 Key Projects
+- **SQL Query Generator**: NL-to-SQL converter using LangChain & GPT-4.
+- **Edubridge-AI**: Multi-PDF academic chatbot using FAISS and LangChain.
+- **Movie Recommendation System**: Personalized movie suggestions using Scikit-Learn and TF-IDF.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📬 Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/prathmesh-sutar-09/) or via the contact form on the live site!
