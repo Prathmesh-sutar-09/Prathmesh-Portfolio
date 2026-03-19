@@ -13,6 +13,7 @@ const projects = [
       'Flask backend for embeddings & queries',
     ],
     tech: ['Python', 'LangChain', 'FAISS', 'Flask', 'React.js'],
+    link: 'https://github.com/Prathmesh-sutar-09/Edubridge-AI.git',
   },
   {
     id: 'project-movie-rec',
@@ -28,7 +29,7 @@ const projects = [
       'Clean & intuitive UI',
     ],
     tech: ['Python', 'TF-IDF', 'Cosine Similarity', 'Scikit-learn'],
-    link: 'https://github.com/Prathmesh-sutar-09/Movie-Recommendation-System',
+    link: 'https://github.com/Prathmesh-sutar-09/Simple-Movie-Recommendation-system.git',
   },
   {
     id: 'project-sql-gen',
