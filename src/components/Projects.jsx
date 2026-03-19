@@ -28,8 +28,27 @@ const projects = [
       'Clean & intuitive UI',
     ],
     tech: ['Python', 'TF-IDF', 'Cosine Similarity', 'Scikit-learn'],
+    link: 'https://github.com/Prathmesh-sutar-09/Movie-Recommendation-System',
+  },
+  {
+    id: 'project-sql-gen',
+    title: 'SQL Query Generator',
+    icon: 'fas fa-database',
+    gradient: 'gradient-3',
+    description:
+      'A natural language to SQL converter that allows users to query SQLite databases using plain English, powered by GenAI and Streamlit.',
+    features: [
+      'Natural Language to SQL conversion',
+      'Interactive Streamlit UI',
+      'LangChain & LLM integration (GPT-4/Qwen)',
+      'Database introspection for context retrieval',
+      'Excel/CSV data ingestion utility',
+    ],
+    tech: ['Python', 'LangChain', 'OpenAI', 'Streamlit', 'SQLite', 'Pandas'],
+    link: 'https://github.com/Prathmesh-sutar-09/SQL-query-generator.git',
   },
 ]
+
 
 export default function Projects() {
   return (
@@ -55,9 +74,10 @@ export default function Projects() {
               <div className="project-info">
                 <div className="project-header">
                   <h3 className="project-title">{proj.title}</h3>
-                  <a href="#" className="project-link" title="View Code">
+                  <a href={proj.link} className="project-link" title="View Code" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-github"></i>
                   </a>
+
                 </div>
                 <p className="project-desc">{proj.description}</p>
                 <ul className="project-features">
