@@ -6,11 +6,11 @@ Welcome to my personal portfolio website, built with React and Vite. This site s
 
 ## 🛠️ Built With
 - **Frontend**: React.js, Vite
-- **Styling**: Vanilla CSS (Premium "Netflix" Theme)
+- **Styling**: Vanilla CSS 
 - **Deployment**: Netlify
 
 ## 📁 Key Projects
-- **SQL Query Generator**: NL-to-SQL converter using LangChain & GPT-4.
+- **SQL Query Generator**: NL-to-SQL converter using LangChain.
 - **Edubridge-AI**: Multi-PDF academic chatbot using FAISS and LangChain.
 - **Movie Recommendation System**: Personalized movie suggestions using Scikit-Learn and TF-IDF.
 
