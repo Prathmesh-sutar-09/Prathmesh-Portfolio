@@ -48,6 +48,22 @@ const projects = [
     tech: ['Python', 'LangChain', 'OpenAI', 'Streamlit', 'SQLite', 'Pandas'],
     link: 'https://github.com/Prathmesh-sutar-09/SQL-query-generator.git',
   },
+  {
+    id: 'project-payroll',
+    title: 'Payroll System',
+    icon: 'fas fa-users-cog',
+    gradient: 'gradient-4',
+    description:
+      'A professional, object-oriented Java application designed to manage employee records, calculate salaries, and provide a user-friendly interface with persistent data storage.',
+    features: [
+      'Dual Interaction: Graphical (GUI) & Terminal (CLI)',
+      'Persistent file-based data storage',
+      'Robust OOP design with polymorphism',
+      'Real-time data synchronization',
+    ],
+    tech: ['Java', 'Java Swing', 'OOP', 'File I/O'],
+    link: 'https://github.com/Prathmesh-sutar-09/PayRoll-System-using-Java-OOP.git',
+  },
 ]
 
 
