@@ -23,6 +23,14 @@ const certs = [
     icon: 'fas fa-laptop-code',
     skills: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular'],
   },
+  {
+    id: 'cert-networking',
+    title: 'Networking and IT Infrastructure',
+    issuer: 'IproTech',
+    year: '2025',
+    icon: 'fas fa-network-wired',
+    skills: ['OS Config', 'Networking', 'CCNA', 'DHCP/DNS', 'VLAN/VPN'],
+  },
 ]
 
 export default function Certifications() {
